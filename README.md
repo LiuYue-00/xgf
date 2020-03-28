@@ -5,6 +5,8 @@
 Succeed！
 
 ### 3.28提交：
-通过code-->token-->user
+1.通过code-->token-->user
 
-能够获取github user.name.
+2.通过设置session,能够做到一定时间的控制用户的登录与姓名展示；
+
+
